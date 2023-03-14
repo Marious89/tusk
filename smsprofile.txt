@@ -4,6 +4,10 @@ computer
 networking
 devops engineer
 cctv installation
-access control
-biometric 
+
+nas storage
+cloud storage
+
+
+
 thank you 
